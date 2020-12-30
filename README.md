@@ -1,25 +1,5 @@
-### Hi there 👋
-
-
-**mnssh/mnssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Hi this is manish
-### This is a heading
-## heading
-# heading1
-- point1
-- point2
-- sbdkjasd
-  
-
+# HELLO MARKDOWN
+   
+         my name is manish yadav . i am a beginner for markdown. 
+         i've just triet this.
+nbkfnbknfvndfmvldfmvs
